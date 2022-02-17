@@ -235,6 +235,10 @@ img {
   vertical-align: middle;
 }
 
+#right{    
+  float: right;  
+  }
+
 /* Tables */
 table {
   margin-bottom: 1rem;
