@@ -11,8 +11,8 @@ relative_permalinks: false
 title:            lexicon lab
 tagline:          'home'
 description:      'language-based experiments on intelligence and cognition'
-url:              https://lexicon-lab.github.io/
-baseurl:          https://lexicon-lab.github.io/
+url:              https://thelexiconlab.github.io/
+baseurl:          https://thelexiconlab.github.io/
 
 author:
   name:           'Abhilasha Kumar'
