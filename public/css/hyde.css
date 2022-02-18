@@ -36,12 +36,12 @@ html {
 }
 @media (min-width: 48em) {
   html {
-    font-size: 3.0vh;
+    font-size: 1.5vh;
   }
 }
 @media (min-width: 58em) {
   html {
-    font-size: 3.0vh;
+    font-size: 1.5vh;
   }
 }
 
