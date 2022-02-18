@@ -46,13 +46,13 @@ html {
 }
 
 figure {
-  display: flex;
+  display: inline;
+  float:right;
   flex-direction: column;
   margin: 0;
 }
 
 figcaption {
-  align-self: flex-end;
   text-align: right;
   font-size: 2vh;
   line-height: 1.5;
