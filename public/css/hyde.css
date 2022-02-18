@@ -45,6 +45,22 @@ html {
   }
 }
 
+figure {
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+}
+
+figcaption {
+  align-self: flex-end;
+  text-align: right;
+  font-size: 2vh;
+  line-height: 1.5;
+  color: #777;
+  padding-right: 2vh;
+  /*adjust this to control how far it should be from egde*/
+}
+
 
 /*
  * Sidebar
