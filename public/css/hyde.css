@@ -57,7 +57,7 @@ figcaption {
   font-size: 2vh;
   line-height: 1.5;
   color: #777;
-  padding-right: 2vh;
+  padding-right: 1vh;
   padding-left: 4vh;
   /*adjust this to control how far it should be from egde*/
 }
