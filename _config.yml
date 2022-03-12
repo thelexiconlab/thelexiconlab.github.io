@@ -10,7 +10,7 @@ relative_permalinks: false
 # Setup
 title:            lexicon lab
 tagline:          'home'
-description:      '<u>l</u>anguage-based <u>ex</u>periments on <u>i</u>ntelligence and <u>co</u>gnitio<u>n</u>'
+description:      '<strong><u>l</u></strong>anguage-based <strong><u>ex</u></strong>periments on <strong><u>i</u></strong>ntelligence and <strong><u>co</u>gnitio<u>n</u></strong>'
 url:              https://thelexiconlab.github.io/
 baseurl:          https://thelexiconlab.github.io/
 
