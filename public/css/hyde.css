@@ -87,7 +87,7 @@ figcaption {
 }
 @media (min-width: 48em) {
   .sidebar {
-    position:relative;
+    position:fixed;
     top: 0;
     left: 0;
     bottom: 0;
@@ -184,8 +184,8 @@ a.sidebar-nav-item:focus {
 }
 
 .iconimg{
-  width: 2%;
-  height: 2%;
+  width: 3%;
+  height: 3%;
 }
 
 .bioimage{
