@@ -159,8 +159,10 @@ a.sidebar-nav-item:focus {
 }
 
 .researchimage{
-  margin-left: 22rem;
+  margin-left: 0rem;
   margin-right: 0rem;
+  width: 50%;
+  height: 50%;
 }
 
 
