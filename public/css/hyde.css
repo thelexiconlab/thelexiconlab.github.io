@@ -106,7 +106,7 @@ figcaption {
   color: rgb(255, 255, 255);
   margin-top: 0;
   font-family: "Lato", sans-serif;
-  font-size: 6vh;
+  font-size: 8vh;
 }
 
 /* Sidebar nav */
@@ -114,7 +114,7 @@ figcaption {
   margin-bottom: 1rem;
 }
 .sidebar-nav-item {
-  line-height: 1.75;
+  line-height: 3.75;
 }
 a.sidebar-nav-item:hover,
 a.sidebar-nav-item:focus {

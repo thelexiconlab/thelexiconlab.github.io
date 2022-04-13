@@ -10,7 +10,7 @@
     </div>
 
     <nav class="sidebar-nav">
-      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">home</a>
+      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">home</a><br>
 
       {% comment %}
         The code below dynamically generates a sidebar nav of pages with
@@ -27,6 +27,8 @@
       {% endfor %}
     </nav>
 
-    <p style="font-size: 1.5vh;">&copy; {{ site.time | date: '%Y' }} lexicon lab | powered by <a href="https://jekyllthemes.io/">Jekyll </a></p>
+    <div style="position: relative">
+      <p style="position: fixed; bottom: 0;font-size: 1.5vh;">&copy; {{ site.time | date: '%Y' }} lexicon lab | powered by <a href="https://jekyllthemes.io/">Jekyll </a></p>
+  </div>
   </div>
 </div>
