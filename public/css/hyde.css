@@ -75,6 +75,11 @@ div{
   display: block;
 }
 
+.papericon{
+  height: 2%;
+  width: 2%;
+}
+
 
 /*
  * Sidebar
