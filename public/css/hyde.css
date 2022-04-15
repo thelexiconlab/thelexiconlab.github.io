@@ -80,6 +80,11 @@ div{
   width: 2%;
 }
 
+section {
+  display: inline-block;
+  text-align: left;
+}
+
 
 /*
  * Sidebar
