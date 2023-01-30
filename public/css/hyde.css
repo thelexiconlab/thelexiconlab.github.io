@@ -211,7 +211,7 @@ a.sidebar-nav-item:focus {
   background-color: rgb(255, 255, 255);
    flex-direction: row;
    flex-wrap: wrap;
-   padding-left: 20%;
+   padding-left: 10%;
   }
   
   .profile > div {
@@ -231,7 +231,7 @@ border-color: Gray;
   }
   
   .card-text {
-  font-size: 40%
+  font-size: 45%
   }
   
   .card-position {
@@ -247,10 +247,11 @@ border-color: Gray;
 }
 
 .bioimage2{
+  display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
-  height: 30%;
+  width: 60%;
+  height: 50%;
 }
 
 
