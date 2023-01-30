@@ -211,7 +211,6 @@ a.sidebar-nav-item:focus {
   background-color: rgb(255, 255, 255);
    flex-direction: row;
    flex-wrap: wrap;
-   padding-left: 10%;
   }
   
   .profile > div {
