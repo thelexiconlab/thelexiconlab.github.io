@@ -262,8 +262,7 @@ font-size: 30px;
   margin-right: auto;
   border-radius: 50%; 
   border-style: solid;
-  border-color: Gray;
-  width: 60%;
+  width: 50%;
   height: 40%;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
