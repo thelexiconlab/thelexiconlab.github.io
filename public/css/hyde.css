@@ -201,9 +201,13 @@ a.sidebar-nav-item:focus {
   height: 40%;
 }
 
+.teamicons{
+  text-align: center;
+}
+
 .iconimg{
-  width: 5%;
-  height: 5%;
+  width: 10%;
+  height: 10%;
 }
 
 .profile {
@@ -214,27 +218,34 @@ a.sidebar-nav-item:focus {
   }
   
   .profile > div {
-background-color: #f1f1f1;
+background-color: #ffffff;
 margin: 10px;
-padding: 20px;
+padding: 5px;
 font-size: 30px;
 }
   
   .profilecard {
-  border-radius: 25px;
+    display: inline-block;
+    border-radius: 25px;
   border-style: solid;
 border-color: Gray;
   padding: 20px;
     width: auto;
     height: auto;
   }
+
+  .card-title{
+    text-align: center;
+  }
   
   .card-text {
-  font-size: 45%
+  font-size: 45%;
+  text-align: center;
   }
   
   .card-position {
-  font-size: 50%
+  font-size: 50%;
+  text-align: center;
   }
 
 .bioimage{
