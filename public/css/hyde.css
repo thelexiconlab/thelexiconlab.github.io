@@ -211,7 +211,6 @@ a.sidebar-nav-item:focus {
   background-color: rgb(255, 255, 255);
    flex-direction: row;
    flex-wrap: wrap;
-   justify-content: center;
    padding-left: 20%;
   }
   
@@ -250,8 +249,8 @@ border-color: Gray;
 .bioimage2{
   margin-left: auto;
   margin-right: auto;
-  width: 60%;
-  height: 60%;
+  width: 50%;
+  height: 30%;
 }
 
 
