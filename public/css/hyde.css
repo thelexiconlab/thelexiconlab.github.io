@@ -219,17 +219,17 @@ a.sidebar-nav-item:focus {
   
   .profile > div {
 background-color: #ffffff;
-margin: 10px;
-padding: 5px;
+margin: 10%;
+padding: 5%;
 font-size: 30px;
 }
   
   .profilecard {
     display: inline-block;
-    border-radius: 25px;
+    border-radius: 25%;
     border-style: solid;
     border-color: Gray;
-  padding: 20px;
+  padding: 10%;
     width: auto;
     height: auto;
   }
