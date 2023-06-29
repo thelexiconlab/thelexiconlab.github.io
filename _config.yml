@@ -1,0 +1,22 @@
+remote_theme: poole/hyde
+
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: false
+
+# Setup
+title:            lexicon lab
+tagline:          'home'
+description:      '<u>l</u>anguage-based <u>ex</u>periments on <u>i</u>ntelligence and <u>co</u>gnitio<u>n</u>'
+url:              https://thelexiconlab.github.io/
+baseurl:          https://thelexiconlab.github.io/
+
+author:
+  name:           'Abhilasha Kumar'
+  url:            http://abhilashak.weebly.com/
+
+paginate:         5
+
