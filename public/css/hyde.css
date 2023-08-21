@@ -69,12 +69,6 @@ figcaption {
 .postimage{
   text-align: left;
   display: block;
-  align-items: left;
-  justify-content: left;
-  margin-left: 0;
-  margin-right: 0;
-  padding-left: 0;
-  padding-right: 0;
 }
 
 div{
@@ -229,30 +223,6 @@ margin: 1%;
 padding: 1%;
 font-size: 120%;
 }
-
-.container {
-  display: flex;  
-  align-items: left;
-  justify-content: left;
-  margin-left: 0;
-  margin-right: 0;
-  padding-left: 0;
-  padding-right: 0;
-
-  }
-  
-  .nsfimg {
-    max-width: 25%;
-    max-height:15%;
-    float: left;
-  }
-  
-  .text {
-    font-size: 20px;
-    padding-left: 20px;
-    padding-top: 20%;
-    float: left;
-  }
   
   .profilecard {
     display: inline-block;
