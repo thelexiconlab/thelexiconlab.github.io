@@ -69,6 +69,12 @@ figcaption {
 .postimage{
   text-align: left;
   display: block;
+  align-items: left;
+  justify-content: left;
+  margin-left: 0;
+  margin-right: 0;
+  padding-left: 0;
+  padding-right: 0;
 }
 
 div{
@@ -227,6 +233,11 @@ font-size: 120%;
 .container {
     align-items: left;
     justify-content: left;
+    margin-left: 0;
+    margin-right: 0;
+    padding-left: 0;
+    padding-right: 0;
+
   }
   
   .nsfimg {
