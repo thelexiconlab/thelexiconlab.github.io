@@ -223,6 +223,24 @@ margin: 1%;
 padding: 1%;
 font-size: 120%;
 }
+
+.container {
+    align-items: left;
+    justify-content: left;
+  }
+  
+  .nsfimg {
+    max-width: 25%;
+    max-height:15%;
+    float: left;
+  }
+  
+  .text {
+    font-size: 20px;
+    padding-left: 20px;
+    padding-top: 20%;
+    float: left;
+  }
   
   .profilecard {
     display: inline-block;
